@@ -1,6 +1,10 @@
 # sample_klipper_configs
  Some of the klipper setups i have actually used and tested
 
+## Instructional Macros
+
+Mostly a well documented PRINT_START, and a purge line, they work but can be customised and improved on. They are a starting point that (probably over)explains WHY something is done, which i think is more important than the details of what.
+
 ## MK4 Enderwire PrusaSlicer
 This is PrusaSlicer 2.6a6 profile for the enderwire based on the Prusa MK4 profiles speeded up a bit.
 I'm limiting infill to 120mm/s for ABS, you can set this to 200mm/s if and ride the filament's vol flow limit; this works well with PLA, for ABS I run a bit slower to avoid die shrink issues warping my parts.
